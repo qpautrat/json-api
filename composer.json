@@ -33,7 +33,8 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "Neomerx\\JsonApi\\": "src/"
+      "Neomerx\\JsonApi\\": "src/",
+      "Evaneos\\": "evaneos/"
     }
   },
   "autoload-dev": {
